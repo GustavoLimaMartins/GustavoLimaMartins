@@ -10,7 +10,8 @@ Aqui estão algumas idéias para você começar:
 - 👯 Estou procurando colaborar em Python, Javascript e HTML
 - 📫 Como entrar em contato comigo: gustavolimamartins2018@gmail.com
 - ⚡ Curiosidade: canto nas horas vagas
--->
+
+-- >
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
