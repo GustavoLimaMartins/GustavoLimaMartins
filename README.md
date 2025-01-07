@@ -1,4 +1,4 @@
-## Olá, mundo 👋
+## Olá! Bem-vindos(as) ao meu repositório GitHub! 👋
 
 <! --
 
