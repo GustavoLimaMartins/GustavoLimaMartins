@@ -16,7 +16,7 @@ Aqui estão algumas idéias para você começar:
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaMartins&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/n/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaMartins&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/n/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaMartins&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/><p>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaMartins&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/><p>
 <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLimaMartins&theme=vue-dark&hide_border=false"/>
 </div>
