@@ -4,7 +4,7 @@
 
 **GustavoLimaMartins/GustavoLimaMartins** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-Conheça mais sobre minhas habilidades, experiências, formação acadêmica e certificações em: https://gustavolimamartins.github.io/CurriculumGustavoLimaMartins
+Conheça mais sobre minhas habilidades, experiências, certificações e formação acadêmica em: https://gustavolimamartins.github.io/CurriculumGustavoLimaMartins
 
 - 🔭 Atualmente estou trabalhando em Ciência de Dados
 - 🌱 Atualmente estou aprendendo Back-end e Front-end
