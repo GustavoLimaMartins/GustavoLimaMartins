@@ -3,12 +3,11 @@
 <! --
 
 **GustavoLimaMartins/GustavoLimaMartins** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+Conheça mais sobre minhas habilidades, experiências, formação acadêmica e certificações em: https://gustavolimamartins.github.io/CurriculumGustavoLimaMartins
 
-Aqui estão algumas idéias para você começar:
-
-- 🔭 Atualmente estou trabalhando em Análise de Dados
+- 🔭 Atualmente estou trabalhando em Ciência de Dados
 - 🌱 Atualmente estou aprendendo Back-end e Front-end
-- 👯 Estou procurando colaborar em Python, Javascript e HTML
+- 👯 Estou procurando colaborar em Python e Javascript
 - 📫 Como entrar em contato comigo: gustavolimamartins2018@gmail.com
 - ⚡ Curiosidade: canto nas horas vagas
 
