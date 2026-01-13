@@ -10,12 +10,11 @@ Conheça mais sobre minhas habilidades, experiências, certificações e formaç
 - 🌱 Atualmente estou aprendendo Back-end e Front-end
 - 👯 Estou procurando colaborar em Python e Javascript
 - 📫 Como entrar em contato comigo: gustavolimamartins2018@gmail.com
-- ⚡ Curiosidade: canto nas horas vagas
 
 -- >
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/GustavoLimaMartins">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLimaMartins&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/><p>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLimaMartins&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/><p>
 <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLimaMartins&theme=vue-dark&hide_border=false"/>
