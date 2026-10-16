@@ -15,8 +15,8 @@ Substitua os placeholders pelos seus dados reais.
   alt="Apresentação animada"
 />
 
-<a href="https://github.com/GustavoLimaMartins">
-  <img src="https://img.shields.io/badge/GitHub-GustavoLimaMartins-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<a href="https://gustavolimamartins.github.io/CurriculumGustavoLimaMartins" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Curr%C3%ADculo-Gustavo%20Lima%20Martins-2F3580?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo — Gustavo Lima Martins"/>
 </a>
 <a href="https://www.linkedin.com/in/gulimartins/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
